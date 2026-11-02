@@ -1,16 +1,47 @@
-# React + Vite
+# Pankaj Jadhao | Cloud & DevOps Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal portfolio!
 
-Currently, two official plugins are available:
+I am an aspiring Cloud and DevOps Engineer interested in Linux System Administration, AWS Cloud Computing, Networking, and DevOps technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About Me
 
-## React Compiler
+I enjoy learning cloud technologies and building practical projects to improve my technical skills.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technical Skills
 
-## Expanding the Oxlint configuration
+- Linux System Administration
+- AWS Cloud Computing
+- Networking Fundamentals
+- Git and GitHub
+- Bash Scripting
+- DevOps Fundamentals
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Projects
+
+### 1. Linux Server Monitoring & Auto-Recovery on AWS
+
+- Built using Amazon Linux 2023.
+- Automated server monitoring using Bash scripting.
+- Scheduled monitoring tasks using Cron.
+- Configured Nginx and automatic service recovery.
+- Integrated Amazon CloudWatch monitoring.
+
+GitHub: https://github.com/pankajjadhao/linux-server-monitoring-aws
+
+### 2. Highly Available AWS Architecture
+
+- AWS architecture project.
+- Implementation currently in progress.
+
+## Certifications & Training
+
+- Linux System Administration
+- AWS Cloud Computing
+- Networking Fundamentals
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/pankaj-jadhao-6912452a4
+
+GitHub: https://github.com/pankajjadhao
